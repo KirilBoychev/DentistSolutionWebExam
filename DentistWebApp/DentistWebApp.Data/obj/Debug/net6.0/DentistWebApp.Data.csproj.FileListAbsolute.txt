@@ -1,0 +1,12 @@
+D:\ProgrammerProjects\SoftUni\WebAdvanced\Project - Dentistry\DentistWebApp\DentistWebApp.Data\obj\Debug\net6.0\DentistWebApp.Data.csproj.AssemblyReference.cache
+D:\ProgrammerProjects\SoftUni\WebAdvanced\Project - Dentistry\DentistWebApp\DentistWebApp.Data\obj\Debug\net6.0\DentistWebApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammerProjects\SoftUni\WebAdvanced\Project - Dentistry\DentistWebApp\DentistWebApp.Data\obj\Debug\net6.0\DentistWebApp.Data.AssemblyInfoInputs.cache
+D:\ProgrammerProjects\SoftUni\WebAdvanced\Project - Dentistry\DentistWebApp\DentistWebApp.Data\obj\Debug\net6.0\DentistWebApp.Data.AssemblyInfo.cs
+D:\ProgrammerProjects\SoftUni\WebAdvanced\Project - Dentistry\DentistWebApp\DentistWebApp.Data\obj\Debug\net6.0\DentistWebApp.Data.csproj.CoreCompileInputs.cache
+D:\ProgrammerProjects\SoftUni\WebAdvanced\Project - Dentistry\DentistWebApp\DentistWebApp.Data\bin\Debug\net6.0\DentistWebApp.Data.deps.json
+D:\ProgrammerProjects\SoftUni\WebAdvanced\Project - Dentistry\DentistWebApp\DentistWebApp.Data\bin\Debug\net6.0\DentistWebApp.Data.dll
+D:\ProgrammerProjects\SoftUni\WebAdvanced\Project - Dentistry\DentistWebApp\DentistWebApp.Data\bin\Debug\net6.0\DentistWebApp.Data.pdb
+D:\ProgrammerProjects\SoftUni\WebAdvanced\Project - Dentistry\DentistWebApp\DentistWebApp.Data\obj\Debug\net6.0\DentistWebApp.Data.dll
+D:\ProgrammerProjects\SoftUni\WebAdvanced\Project - Dentistry\DentistWebApp\DentistWebApp.Data\obj\Debug\net6.0\refint\DentistWebApp.Data.dll
+D:\ProgrammerProjects\SoftUni\WebAdvanced\Project - Dentistry\DentistWebApp\DentistWebApp.Data\obj\Debug\net6.0\DentistWebApp.Data.pdb
+D:\ProgrammerProjects\SoftUni\WebAdvanced\Project - Dentistry\DentistWebApp\DentistWebApp.Data\obj\Debug\net6.0\ref\DentistWebApp.Data.dll
